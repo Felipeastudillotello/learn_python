@@ -18,4 +18,4 @@ resta = intChar - bar_int
 multiplication = intChar * bar_int
 divition = intChar / bar_int
 print("el valor de resta es: ",resta,"el valor de multiplication es: ",multiplication,"el valor de divition es: ",divition)
-
+b = 33
